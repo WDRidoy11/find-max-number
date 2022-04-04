@@ -7,4 +7,4 @@ function findMax() {
     }
     return max;
 };
-console.log(findMax(10, 20, 25, 50, 100));
+console.log(findMax(10, 20, 25, 50, 100, 500));
